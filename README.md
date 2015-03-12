@@ -13,6 +13,17 @@ Android app that converts texts into a Twitter hashtag
 - Compatible with [twicca plugin (tweet editor)](http://twicca.r246.jp/developers/edit_tweet_action/)
 - Supports share intents
 
+## Versioning
+
+This software aims to adhere to [Semantic Versioning 2.0.0][semver]. Violations
+of this scheme should be reported as bugs.  Specifically, if a minor or patch
+version is released that breaks backward compatibility, that version should be
+immediately yanked and/or a new version should be immediately released that
+restores compatibility.  Breaking changes to the public API will only be
+introduced with new major versions.
+
+[semver]: http://semver.org/
+
 ## License
 
 ### Tagifer
