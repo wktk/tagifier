@@ -5,7 +5,7 @@ Android app that converts texts into a Twitter hashtag
 ## Features
 
 - Works as a [Mushroom](http://simeji.me/blog/make_mushroom)
-- Works as a [twicca plugin (tweet editor)](http://twicca.r246.jp/developers/edit_tweet_action/)
+- Compatible with [twicca plugin (tweet editor)](http://twicca.r246.jp/developers/edit_tweet_action/)
 - Supports share intents
 
 ## License
