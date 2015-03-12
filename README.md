@@ -2,6 +2,11 @@
 
 Android app that converts texts into a Twitter hashtag
 
+[![Get it on Google Play][get-it-logo]][app-on-google-play]
+
+[app-on-google-play]: https://play.google.com/store/apps/details?id=jp.wktk.tagifier
+[get-it-logo]: https://developer.android.com/images/brand/en_generic_rgb_wo_45.png
+
 ## Features
 
 - Works as a [Mushroom](http://simeji.me/blog/make_mushroom)
